@@ -9,7 +9,13 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        <div class="row col-md-12">
+            <div class="alert alert-warning">
+                <blockquote style="font-style: italic">
+                    This is a Notification.
+                </blockquote>
+            </div>
+        </div>
     </div>
     </form>
 </body>
