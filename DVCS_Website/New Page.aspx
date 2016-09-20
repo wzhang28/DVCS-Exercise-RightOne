@@ -16,6 +16,10 @@
                 </blockquote>
             </div>
         </div>
+        <div class="NewYork">
+            <h2>New York</h2>
+            <asp:Image ImageUrl="~/Images/NY.png" runat="server" />
+        </div>
     </div>
     </form>
 </body>
